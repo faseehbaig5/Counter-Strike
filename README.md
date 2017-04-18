@@ -1,0 +1,2 @@
+# Counter-Strike
+de_dust2, de_inferno, de_nuke are the rounds of counter strike.
